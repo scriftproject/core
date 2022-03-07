@@ -1,7 +1,6 @@
 <p align="center"><img width="180" src="https://raw.githubusercontent.com/scriftproject/assets/main/SVG/Logo_core.svg"></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg
-" alt="Made with GoLang" />
+<img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg" alt="Made with GoLang" />
 <img src="https://img.shields.io/github/license/scriftproject/core.svg" alt="License">
 <img src="https://img.shields.io/github/issues/scriftproject/core.svg" alt="Issues">
 <img src="https://img.shields.io/github/stars/scriftproject/core.svg" alt="Stars">
