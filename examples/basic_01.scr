@@ -1,0 +1,4 @@
+document title "The State of Scrift" author "Dane Walker" date "22 Feb 2022"
+  section "Hello World!"
+    "Welcome to the very first document written in Scrift."
+    "The goal of scrift is to create a new way of writing documents."
