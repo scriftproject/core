@@ -4,4 +4,4 @@
 
 # Scrift Core ✏️
 
-
+Read through the series on how I'm creating Scrift on my [Medium](https://danewalker.medium.com/) profile.
