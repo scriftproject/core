@@ -12,11 +12,7 @@
 <a href="https://github.com/danecwalker/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://danewalker.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.buymeacoffee.com/danecwalker/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee"></a>
-<img src="https://starchart.cc/scriftproject/core.svg">
 </p>
-<!-- <p align="center">
-<img src="https://goreportcard.com/badge/github.com/scriftproject/core">
-</p> -->
 
 # Scrift Core ✏️
 
